@@ -1,0 +1,5 @@
+{
+  "name": "Quản lý Thời gian Cá nhân",
+  "description": "Một ứng dụng để quản lý ngân sách thời gian cá nhân của bạn mỗi ngày. Theo dõi công việc, ước tính giờ và trực quan hóa năng suất của bạn với giao diện kiểu dashboard sạch sẽ.",
+  "requestFramePermissions": []
+}
